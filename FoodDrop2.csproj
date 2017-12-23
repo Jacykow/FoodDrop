@@ -220,6 +220,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CameraRotationScript.cs" />
+    <Compile Include="Assets\CroissantNumberDisplayController.cs" />
     <Compile Include="Assets\FoodDrop Assets\Scripts\FoodShootingController.cs" />
     <Compile Include="Assets\Scripts\ChickenShooter.cs" />
     <Compile Include="Assets\Scripts\FoodDestroyer.cs" />
